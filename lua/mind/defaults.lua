@@ -117,7 +117,7 @@ return {
 			{ '󰎕 ', 'Journal, newspaper, weekly and daily news' },
 			{ '󰛨 ', 'For when you have an idea' },
 			{ ' ', 'Note taking?' },
-			{ '󰗇', 'Task management' },
+			{ '󰗇 ', 'Task management' },
 			{ ' ', 'Uncheck, empty square or backlog' },
 			{ ' ', 'Full square or on-going' },
 			{ ' ', 'Check or done' },
